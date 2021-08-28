@@ -1,5 +1,5 @@
 # NATO-Alphabet-Generator
-Generates the NATO sequence for any provided word.
+bunnysaini/NATO-Alphabet-Generator
 
 ## Features
 This project provides you the NATO Alphabet Sequence for any word provided.
